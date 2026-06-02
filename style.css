@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #0055aa;
+  text-align: center;
+}
+
+p {
+  color: darkgreen;
+  font-size: 18px;
+}
+
+img {
+  max-width: 300px;
+  display: block;
+  margin: auto;
+  border: 3px solid navy;
+}
+
+ul {
+  background-color: white;
+  padding: 20px 80px;
+  width: 200px;
+  margin: auto;
+}
